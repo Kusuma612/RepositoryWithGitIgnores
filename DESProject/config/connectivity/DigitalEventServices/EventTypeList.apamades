@@ -1,0 +1,5 @@
+#EventTypeList.apamades 10.3.0.0
+#This is an internal file and is not user-editable.
+des.apigateway.designtime.events.Event,a81daa946604396a,DEPENDENCY
+des.apigateway.designtime.events.AuditlogEvents,398c628ab40dbbc,SELECTED
+EXPORT,com.test.sampleEvent
