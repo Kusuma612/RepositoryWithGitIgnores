@@ -1,0 +1,2 @@
+# RepositoryWithGitIgnores
+Repository with gitignore
